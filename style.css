@@ -186,7 +186,7 @@ aside>ul{
     list-style: '\2714\00A0\00A0'; /*emoj 'check' na lista, esses códigos não funcionam em todos os navegadores(00A0 = ESPAÇO)*/
     list-style-position: inside;
     columns: 2; /*divide a lista em colunas*/
-    padding: 10px 40px;
+    padding: 10px 10px;
 }
 
 abbr{ /*ao passar o mouse exibe um texto*/
